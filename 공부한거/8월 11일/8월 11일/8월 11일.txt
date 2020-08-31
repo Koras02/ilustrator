@@ -1,0 +1,125 @@
+채색하기 
+
+고양이 백그라운드레이어 더블클릭해서 일반레이어로 
+
+crop tool 사용해서 공간 넓히기
+
+배경 레이어에 흰색 백그라운드색 추가 
+
+고양이 레이어 선택 normal 박스 클릭-> multiply
+
+컬러 레이어 추가해서 배경레이어와 고양이레이어 사이에 위치 
+
+고양이레이어선택 magic ward tool 선택 tolerance 10정도하고 고양이 바닥 선택 
+
+컬러레이어 선택 브러쉬 선택 -> 위쪽에 blush 옵션에 모양선택 -> opacitiy 투명도 설정 -> 원하는색상선택후 
+
+그리기 datge tool 밝게 brun tool 어둡게 penciltool 로 만들기
+
+브러쉬 만들기 
+
+배경색넣기 가운데는 밝고 배경 밝은 전경 어두운 -> 그라디언트 선택  원형 선택 
+
+60 60 새창 -> 전경 검정 -> custom tool 눈송이 모양 선택 -> 백그라운드 눈감기고 define brush ->
+작업한대로 레이어추가 눈송이-> 눈송이배치 -> window-> brush settings ->brush tip shape 에서설정 ->
+
+spacing 하면 서로떨어져서  
+
+event 글씨 효과ㅓ-> fx 선택 -> strok 설정 사이즈 1로 out side -> gradient overlay 선택-> 색상 진한색 연한색
+
+outer glow 퍼지게 size 설정하면 후광효과
+
+
+
+화장품 벽만 선택해서 path 모드로 병만따기 
+
+path 패널에 선택하고 컨트롤 j
+
+select -> selct and mask -> out put ok 
+
+사각형 선택툴 색설정 -> 선긎기 
+
+
+타일 사이 간격 연출 
+
+4등분 가이드라인 보조선 
+
+25 50 75
+
+가이드 잡고 수평선택툴 클릭 
+
+선택영역 확장 selcet -> modify -> expend  -> 5pixel 정도만
+
+vevel 입체감 
+
+
+
+화장품 컨트롤 c 해서 작업할공간에 v 
+
+배경레이어 추가-> brush
+
+레어어 추카 -> 배경색 추가 gradient -> 투명도 살짝 위아리만 
+
+상품뺴고 폴더로 만들고 상품 복하 하고 왼쪽 해서 사이즈조절
+
+레이어추가 상품그림자 -> 브러쉬 퍼지는 투명도 조절 
+
+후광효과 레이어추가 브러쉬 투명도 낯춰서 
+
+
+레이어 추가 글씨
+
+물결 
+
+레이어 추가 브러쉬 퍼지지않는 원브러쉬 
+
+이슬넣고싶은데 찍어주기
+
+fx 넣고 blending option 선택 fill opacity 0%
+
+bevel 선택 하고 size 수정 
+
+inner shadow 로 안쪽그림자도 수정 
+
+inner glow 안쪽으로 overlay 하고 색감설정
+
+dropshadow 살짝만 
+
+외각선 수정 blur tool -> smudge tool 선택 하고 크기조절 해서 외각선잡아주기
+
+사진있는 부분만 뺴고 흑백 
+
+왼쪽소년만 선택해서 복사 -> 사각형 선택툴로 feader 없는 상태 백그라운스 선택 
+
+소년 남길 부분만 포함 선택 컨트롤 J 
+
+그림자 넣어주기 
+
+흑백만들기 
+
+백그라운드 레이어 선택 레이어 아래 4번째칸 선택 -> Theshold 흑백효과
+
+비내리는 효과 레이어추가 검정색 바탕 넣기 -> filter-> noise -> add noise -> 100%정도넣고 -> monochromatic선택 ok-> image 어저스트-> level 검정색부분만 왼쪽칸 높여주기 -> 점확대 filter -> other->maximun -> 1정도만 
+
+filter-> blur -> motion blur
+
+
+new layer-> 검정색 넣기
+
+filter -> noise -> add noise (amount:100 / monochromatic 체크)
+
+image -> 어저스트먼트-> levels (검정: 245)
+
+filter-> other -> maximum (radius:1)
+
+filter-> blur-> motion blur(angle:65도/distance:30)
+
+블랜드모드 soft light/opacity : 70%
+
+6번레이어 복사
+
+블랜드 모드 screen /opacity: 50%
+
+
+낡은사진.psd 불러오기 
+

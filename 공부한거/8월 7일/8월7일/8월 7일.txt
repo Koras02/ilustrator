@@ -1,0 +1,71 @@
+symbol (스프레이 모양) sprayer tool 
+
+symbol sucrucher tool 위치이동 
+
+symbol spiner 방향 
+
+symbol stainer tool 색이 입혀짐
+
+symbol screen tool 투명도 
+
+letter 사이즈로 세로방향 -> 면나누기 
+
+선두개 그리고 윗선 복사  붙여넣기
+
+선과면 shift 선택 pathfinder->divide-> 부분선택으로 색 
+
+컨트롤 숫자2 잠구기 아까라인 위에 올려두고 위에하나더 복사후 모양잡기 
+
+선두개 만들면 blend로 선만들기  
+
+선도 잠가주고 
+
+풍선그렸으면 
+
+글씨스기 
+
+Seoul lantern festival 2020 
+
+november 2th ~ 1th , 2020, cheonggyechoeon, seoul 
+
+청사천 그리기 
+
+사각형 생성 선 긋고 divide 색설정 
+
+부분선택 가운데 드래깅 shift 누르고 dnlfh 
+
+펜툴로 밑에 그려주기 
+
+손잡이도 만들고 
+
+sybomle 로 끌고 들어가기 
+
+
+puppective grid tool 입체 
+
+puppective select tool 이동 
+
+
+투시노트 x 누르면 종료  
+
+
+신문모양 
+
+type -> area type options 
+
+T툴 글씨 배치 
+
+도형아무거나 글씨안에 도형 
+
+도형 글자위 도형선택하고 objects -> text wrap -> make 글씨안으로 도형 들어감 
+
+크기설정 options
+
+새창 
+
+line tool -> spire -> 
+
+칸나누고 이미지 가져오기
+
+이미지 가져올때 흰색바탕이안되면 링크해제하고 가져오기
+

@@ -1,0 +1,204 @@
+
+이미지 크기줄이기 
+
+
+전체선택 컨트롤 a window -> info 누르면 정보를 알수있음 
+
+
+image - image size  width 800 가로 줄이면 세로도 알아서 줄여줌 
+
+줄일때는 괞찮은데 
+줄인거를 다시 늘릴때 깨짐 
+
+
+작은이미지를 억지로 늘리면 x 큰이미지는 괞찮지만 
+
+
+수평수직 맟추기 
+
+eyedrapper tool 색상아는툴 오른쪽 클릭 - > rurler 툴 선택 
+
+맟추고싶은데 클릭 + 드래그 하고 -> straighten layer 클릭
+
+하면 여백이생기는데 캔버스 없애기 
+
+대충 줄이기 자툴 위에 클릭 크기만큼 줄이고 v 누르면 됨 
+
+도형 툴 자세히 알기 
+
+도형툴 선택 
+
+툴바 첫번째 도형 모양 설정 
+
+shift 하고 하면 레이어 합쳐지고 alt 누르고 하면 삭제 
+
+도형 그리고 또 그리면 합쳐져서 
+
+컨트롤 바닥클릭하고 해야됨 
+
+round 사각형도 가능하고 포토샵에서는 radius 를 수치로 입력해서해야됨 
+
+line tool 1px 만됨 
+
+일러랑 다른부분은 custom shape tool 이있음 
+
+shape 누르면 모양이 많이뜸 
+
+pentool-> 우;에서 shape 모드로 설정 
+
+pentool 오른쪽 -> 부분선택툴로 부분설정가능 
+
+하고 색상넣기 레이어패널 쪽 paths 패널 컨트롤 누르고 path 레이어 선택 ->layer 로가서 추가 
+
+하고 컨트롤 d
+
+상품모양 따기 pen tool 선택 path 모드선택 
+
+select -> select menu  
+
+
+무늬넣기
+
+edit-> fill -> contents -> pattern 에서 무늬 
+
+패턴2 레이어 생성 
+
+패턴2 선택 -> fx레이어 스타일 -> pattren overaly 
+
+원하는 패턴넣기 
+
+유리창느끼으로 
+
+새창 열어서 90x90 생성
+
+더블클릭해서 일반레이어로 만들기 
+
+선택툴에서 위아래 삭제  양옆도 삭제 
+
+패턴등록하기 edit -> define pattern 선택 패턴등록 
+
+나무.psd 가서 레이어 생성하고 이름을 패턴으로 설정한뒤 
+
+edit 에서 -> fill -> pattern 하고 등록된 패턴 ok
+
+정확한 수치 하고싶으면 위에 나사모양 누르고 fiexd size 선택 
+
+25 px 25 px 수치입력 사각형선택툴 선택 하고 
+
+
+투명인상태만들기 
+
+백그라운드 눈감기기 
+
+컨트롤 d 해서 한번더 선택해제 
+
+색감 바꾸기 gradient 넣기 
+
+패턴이 강해보이면 레이어에서 normal 박스 클릭해서 선택 
+
+투명인부분 잠구기 레이어 선택하고 Lock 이라는 글씨서인는 첫번째 칸 선택해서 레이어 잠구기 
+
+지우개 밑 그라디언트툴 선택 위에 첫번째 선형 선택 
+
+sample 사이즈 누르면 패선선택 
+
+한눈에 비교하기 
+
+window -> arrange  -> 4 up 4개로 나눠서 보여짐 
+
+사진 보정하기 
+
+image -> auto Tone 톤 contrast 대비 color 색 보정 원하는 색감배경  
+
+
+
+컨트롤 + J copy 흑백만들고 백그라운드 잠구고 눈없애고 장미랑 흑백부분만 체크  부분 확대 하고 지우개툴
+
+장미빼고 흑백 만들기 
+
+brushtool-> quick select tool 클릭 해서 장미선택 컨트롤 shift i 로 선택반전하고 흑백만들고 선택영역해제
+
+장미복사 흑백만들고 
+
+포토샵에서는 window -> history 에서 작업물 기록함 지우개툴 위에 브러쉬가 history brush임 전단계로  
+
+밝기 조정
+
+image -> 어저스트에 -> 맨첫번째 brightness/contrast -> 밝기 명암조절 
+
+image -> agurstment-> 원본은 그대로 두고싶다 레이어를 추가해주면서 Layer -> new 어저스트 레이어 선택 (레이어가 추가되면서됨 원본 보장해줌 단점 밑에 깔려있는애들 모두 걸림)
+
+패널에 나와있음 adjustments 패널 에 아이콘 누르면 properties 에 뜸 
+
+
+각각 투명도 주기 
+
+컨트롤 + 패턴 썸네일 클릭 
+
+선택영역 반전 shift 컨트롤 i 
+
+컨트롤 + shift + c 보이는 영역 복사  
+
+여러레이어가 있을때 보고있는 그대로 컨트롤 + shift + c 
+
+layer Nomarl 박스에서 설정 
+
+darken ~ darer color 는 어둡게 만듬 
+
+Lighten ~ Lighter Color 
+
+어둡개 선택 
+
+중간중간 설정 하기 
+
+흰색종이 네모상자 몇간 몇간 지우기 
+
+지우개툴 magic eraser Tool 하고 클릭한부분 클릭하면 일부분 사라짐 
+
+투명도 조절 패턴레이언 선택 opacity 투명도 설정 
+
+레이어 블렌트 사지진입히기 
+
+지우개 크기 [] 
+
+
+이미지 보정하기 
+
+image - > mode 눌러보면  여러가지있는데 jpg 는 보통 rgb color 로열림 
+
+.gif 이미지는 indexed color 중간중간 안되는작업물이있는데 그것은 .gif 때문 gif 는 포토샵의 
+
+모든 기능이 적용되지않음 gif 는 rgb color 로 바꾸면 작업이 가능 
+
+grayscale 흑백으로 표현됨  작업물이 흑백으로 나오면 grayscale 이 체크되있는지 확인 
+
+사진이미지에 흑백만들기
+
+image -> mode -> grayscale 누르고 경고창이뜨는데 discard 누르면 흑백으로 나옴 -> file -> save as -> 흑백1.jpg 로 저장 
+
+image -> 사진을 보정해야지 adjustments-> desaturate 컨트롤 + shift + u 
+
+어저스트-> hue/saturation ctrl + U 색상보정할때 -> hue 건들지말고 saturation 채도 Lightness 명도 
+
+마지막 흑백 image -> 어저스트먼트 -> black & white 요즘 흑백만들때 컬러감을 만들수있음 
+
+
+1) image 메뉴 -> mode -> grayscale 
+2) image 메뉴 -> adjustments -> Desaturate(채도 감소)
+3) image 메뉴 -> adjustments -> hue/Saturation - > 채도 saturation 을 - 100으로
+4) image 메뉴 -> adjustments -> black and white 
+
+image -> 어저스트에 -> levels 색감보정 뒷배경할때 뒷배경만 밝게 하려면 options 밑에 spoid 설정 클릭할때 색이랑 맟춰줌 
+
+image -> adjustments -> curvers 색감보정 사진 선명도 조정 
+
+
+브러쉬 툴로 캐릭터만 선택영역 잡아주기 -> image -> adjustment -> hue  -> hue 컬러 변경 
+
+얼굴보정 머리컬러 조정 하는법 
+
+눈키우기 턱깍기 
+
+물체변형 filter -> liguify (shift+컨트롤+X)  왼쪽 메뉴에 이목구미 수치로 조절 
+
+이미지 보정은 제일 많이씀.

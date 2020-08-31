@@ -1,0 +1,90 @@
+Adjustments->colorbalance(컨트롤+B) -> tone -> shadow (어두운부분 바꿀수있음)
+
+사진 덜깨지듯하게 수정하기  
+
+filter -> blur -> gaussian blur (주인공 빼고 뽀샤시하게)
+
+filter -> blur -> surface blur (경계선 남기고 블러처리)
+
+부분부분 깨진애들도 하기 
+
+blur tool -> 클릭 
+
+경계선 조금더 뚜렷하게 
+
+copy -> filter -> other -> high pass 
+
+레이어와 레이어 블랜딩 
+
+레이어에 normar 박스클릭-> overlay 모드 
+
+
+background 레이어 copy 해서 위로 하고  overlay 
+
+조금더 선명하게 넣기 
+
+원본 레이어1 백그라운드 카피  선택 컨트롤 + e하면 레이어 함쳐짐 
+
+fiter -> sharpen -> sharpen 살짝만 넣고 너무만이 너으면 손상됨 
+
+부분만 샤픈 blur too 눌러보면 sharpen tool 나옴 
+
+
+점흉터 없애기 
+
+도장모양 툴 
+
+alt 누르고 클릭 
+
+조금더 자연스럽게 
+
+밴드모양 툴 클릭 -> patch tool 클릭 
+
+얼룩덜룩한느낌 보정하기 
+
+레이어 카피해주고 
+
+피부 뾰얗게 ->filter -> blur -> smart blur 
+
+얼굴피부톤만 하기 나머지부분 지우기
+
+mask 씌우기 블러넣은 레이어 선택 레이어 아래쪽 3번째 칸 박스모양 클릭
+
+하면 오른쪽에 흰색종이 레이어 마스크 생김 
+
+흰색종이에 검정색으로 칠하면 안보이고 흰색은 보임 
+
+얼굴만선택 선택영역 반전 하고 백그라운드 색 넣기 
+
+
+도장툴로 인형얼굴 합치기 
+
+인형 1의 quick selecte tool로  얼굴부분만 선택 
+ 
+외각선 정리하기 select -> selct an mask 정ㄹ되면 ouput 을 new 레이어로 하면 얼굴말 불리됨 
+
+다되면 인형2 툴로 가서 도장툴 선택 100 정도하고 코부분 알트 누르고 클릭하고 인형 1로와서 레이어 복사 하고 클릭하고 드래깅 하면 인형 내용이 복사됨 
+
+얼굴크기만 하게 마스크 씌우기 레이어와 레이어 사이 경계선 알트 누르고 클릭 하면 인형사이에 들어감 
+
+이것을 클리핑마스크라고함
+
+발자국 이동시키기 
+
+구멍 안생기게 복사 하기 
+
+patch tool 아래 content-aware move tool 클릭 
+
+
+발자국만 해서 이동시키면 됨 
+
+
+뒤에사람 없애기 
+
+선택툴로 뒷사람만 선택 
+
+선택영역 더넒게 선택  
+
+select -> Modify -> expend (선택영역) contract (선택영역 축소) -> 4정도 넣어주면 우리가 넣건보다 살짝 크게 선택영역 잡힘  -> edit -> fill -> contents 에서 content-Aware -> OK 하면 사람이 사라짐 색이상하면 normal 로 바꾸샘 
+
+

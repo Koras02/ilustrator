@@ -1,0 +1,280 @@
+사진효과 폴더에 man.psd 열기 
+
+사람얼굴에 글자입히기 
+
+1.배경흰색으로만들기
+
+2. 흑백처리 image -Mode -> grayscale -> marge -> 흑백으로 만들기 
+
+3. 외각을 불러처리하기 filter -> blur -> gussian blur -> 2.5~3 사이로 넣어주기 
+
+4.흑백으로저장 file -> save as  -> 흑백으로 저장 
+
+5.man.psd 원본파일 열기 
+
+6.글씨여러개입히기 컨트롤 + e합치고 위ㅊ잡기 
+
+7. 배치한 레이어 합치키 
+
+8. fiter -> distor-> displace -> 15 15 기본값 외각에따라 자립음 -> 저장한 흑백.psd열기 -> 적은 얼굴에 클리핑마스크-> 효과 입히기
+
+
+새창 700 450 세로로 열기 
+
+글씨에 바느질선 효과 넣기 
+
+1.뒷배경효과 넣기 레이어 추가 원하는 색상 넣기 
+
+2.fiter -> fiter gallary -> texture -> 원하는걸로선택 
+
+3.글씨쓰기
+
+4.레이어추가 skech레이어 선택 컨트롤 누르고 happy 레이어 T 모양 클릭 글자만큼 선택됨
+
+5. 선택영역확장 -> slect -> modify -> expend -> 4~5 정도 
+
+6 전경색 흰색 -> 브러쉬 선택 -> 옵션창에서 -> hadnis 선택 투명도도 100 퍼 
+
+7.브러쉬 세팅창-> brush tip shape-> size 8px  round38% 간격 450%
+
+8. shape 다이나미 컨트롤 ->direction 
+
+9.paths 패널로가서 밑에 4번째칸 선택하면 선택영역 패스로 만들어줌 패스패널로 저장이됨
+
+10.패스레이어에 마우스 오른쪽 -> stroke path -> Tool: brush 하고 ok 패스선따라 브러쉬가 그려짐 
+
+11.패스 패널에서 바닥클릭하면 패스선안보임 
+
+
+
+새창 700 500 72 로 만들기
+
+글자에 불타는 효과넣기
+
+1.배경색 검정색 하고 글자 fire 쓰기
+
+2.글자레이어 카피
+
+3.컨트롤 T 눌러서 마우스 오른쪽 rotate 90도 counter clockwise 반시계 방향으로회전 
+
+4. 레이어 코피한거 일반레이어로
+
+5. sylelize. 
+
+6.alt + 컨트롤 f 방금직전에 했던 작업 
+
+7.복사한 레이어 회전
+
+8.imge->어저스트먼트->hue 불색상바꿔주기  흑백일경우 hue 해도 색상안바뀜 오른쪽 아래 colorize 체크해야 흑백일때 변경됨
+
+9.fire 글자레이어 복사 일반레이어로 처리
+
+10.filter -> blur-> 가우시안 -> 2.5~3
+
+11 컨트롤 블러 노랑 선택 컨트롤 e 합치기 
+
+12 컨트롤 J 은은하게 바뀜..블랜드 모드 change 
+
+13.image - > 어저스트-> hue 
+
+14.fiter-> styleliz-> diffuse -> Lighten only 
+
+15 fiter-> distort-> ripple
+
+16 블러레이어 도 ripple 넣기
+
+17.글자레이어 블러 블러copy 사이에 위치
+
+18.글자레이어 -> fx -> outer glow 붉은색 선택
+
+
+불타는 글자만들기
+
+1)fire 글자쓰기 ( 흰색/ 100pt)
+2)글자레이어 복사 컨트롤+J -> 90도회전 rotate 90 CCW
+3) filter -> stylize->wind(method:wind/direction:from the right)
+4) alt + ctrl + f 전작업 반복수행
+5) 90 cw 회전해서 원상태로 복귀
+6) image->adjustment->hue/saturation 조절
+(colorize 체크 / hue:50 / saturation : 100 / lightness: -45)
+7)글자레이어 맨위로 올리기
+8) 글자레이어 복사 컨트롤+ j 
+9)filter -> blur-> gaussian blur (radius:3)
+10) blur와 노랑글씨 레이어 합치기
+11) 레이어 복사 컨트롤 + J
+12) 블랜드모드 color Dodge
+13) image -> adjustment-> hue : -45/colorize 체크해제
+14) filter-> stylelize-> diffuse ( mode: lighten only)
+15) filter -> distort -> ripple ( amount: 200 / medium)
+16) 노랑레이어 선택후 컨트롤 + F (노랑레이어에도 효과 적용됨)
+
+17) 글자레이어 중간에 놓고 layer style -> outer glow 
+(color dodge / 100%/빨강 / spread:20%/size:15px)
+
+
+사진효과에 halfton.jpg 열기  원으로 점찍게 만들기 
+
+1.image -> 캔버스 사이즈-> relative height 150 만찍고 -> 컨트롤 a 전체 선택
+
+2.선택영역 조절 select -> transform slection W 80 % H 60% 로 맟추기
+
+3.선택영역 반전 컨트롤 shift i 
+
+4.quick mouse 맨밑에 첫번째칸
+
+5 filter->pixelate -> color halftone -> 20 100 100 90 45 -> 망점이 나옴 -> 알트 컨트롤 f 
+
+6.맨밑 첫번째칸 퀵마우스 해제 배경흰색넣기 
+
+halftone 만들기
+
+1) 원하는 크기의 선택영역 잡기
+2) 선택영역 반전 
+3) edit in quick mask mode (툴패널 맨아래에 첫번째)
+4) filter -> pixelate -> color halftone
+(radius: 20 / chnnel1:100 /channel2: 100 / channel3: 90 / channel4:45)
+5) alt + ctlr + F (바로전 작업 반복 수행)
+6) quick mask mode를 클릭해제하기
+7) 원하는 백그라운드 색 넣기
+
+키위파일열기 
+
+새창 width 7centimeters 6.5 height  300inch rgb color
+
+키위모양만들기
+
+1.배경만들기 -> 전경색 배경색 선택 -> 자에다 마우스 오른쪽 단위 % 로 가운데 50%된곳에 맟추기
+
+2.레이어 추가 -> 사각형 선택툴 페더값없개 반쪽만선택 색넣고
+
+3.선택영역 반전 색넣기 
+
+4.filter -> distort -> twirl
+
+5.레이어 추가 -> 전경색 배경색 하나는 흰색 하나는 원하는색상
+
+6.색상 아무거나 넣고
+
+7.fitler -> sketch -> halftone patten -> okay -> 컨트롤 t 로 세로로 
+
+8.filter-> distort -> polar cordinatas
+
+9.글자 레이어 스타일 주기 bevel 클릭 
+
+10.stroke 바깥쪽으로 size 7 px opacity 100%
+
+11.gradient overlay -> gradient 살짝 밝은색으로
+
+12.글씨뒤로 하프톤 컨트롤 글씨모양 T 클릭 -> selct-> modify -> expend -> 10~15사이 -> 선택영역잡힘-> 선택영역 반전 
+
+13.chenels 패널 4개 선택 하고 밑에 2번째칸 누르면 잡힘 -> 선택영역 해제 -> 알파 누르면 흑백으로 글자영역 잡힘
+
+14.글씨 뿌옇게 -> filter -> blur -> gaussian blur -> 15~20%-> 경계선 흐려짐 
+
+15.filter->pixel late->color halftone -> max radius 만 8 하면 망점이 만들어짐 
+
+16.컨트롤 누르고 alpah1 클릭 -> rgb 클릭 
+
+17.레이어 패널로 가서 레이어추가-> 배경색넣고 컨트롤 shift i 
+
+18.레이어 아래로 
+
+
+channel 패널 사용하여 halftone 만들기 
+
+1)halftone 만들영역 선택
+
+2)선택영역 반전
+
+3)channel 패널 아래 save selection as channel 버튼 클릭(1번영역 크기로 흑백 만들어짐
+
+4) 컨트롤 + D 선택영역 해제 
+
+5) filter - blur -> gaussian blur
+
+6) filter -> pixelate -> color halftone (radius: 9px/ 1:108 / 2: 162 /3:90 /4:45)
+
+7) 컨트롤 + alpah 패널 썸네일 클릭 (영역선택됨)
+
+8) channel 패널에서 rgb레이어 클릭
+
+9) 레이어 패널로와서 레이어 추가 후 선택영역 반전-> 컬러넣기
+
+
+메인페이지 1 상세페이지 1
+
+쇼핑몰리뉴얼 계획서 
+
+1.쇼핑몰 분석 사이트 종류 분석 
+
+2.벤치마킹 (동종업계 벤치마킹) 
+
+3.디자인 컨셉 
+
+1.쇼핑몰 분석 
+
+쇼핑몰 소개 
+
+특징 
+
+리뉴얼 선정이유 (정확한 이유)
+
+1.눈에 잘띄지않는 로고와 문구
+
+2.중요하지않은 정보를 상단에 배치 
+
+3.메뉴영역의 구분이 모호함 
+
+2.벤치마킹 
+
+장점과 단점 기록 
+
+3.디자인 컨셉 
+
+*타겟 분석 연령별로,나이대별로, 
+&서부타켓 주부 자취생 운전하는 남성 등등 
+
+4.컨셉 concept 
+
+온화함 조화함 등등 자세하게 설명되야함.사이트 만들때 컬러가 중요 타겟 연령대 분위기 별로 컬러잡기가 중요!!
+
+5.쇼핑몰은 컬러를 죽이는 경우가 많음 (*상품을 돋보이기 위해)
+
+6.폰트중요 가독성이 높고 깔끔한 폰트 선정 
+
+나눔고딕.나눔바른 고딕 
+
+7.레이아웃 
+
+header 
+
+main visual 메뉴영역 상단부분과 분리하여 메뉴가 잘보일수있도록한다. 
+
+contents  한줄만 배열 할건지 두줄만 배열할지 
+
+footer 
+
+
+
+1. 쇼핑몰 분석 
+
+타겟.사이트 분석 결론과 문제점...
+
+
+2.벤치마킹 토대로 컨셉잡기 
+
+3.리뉴얼 컨셉 -> 컬러감-> 폰트 -> 레이아웃 스토리 보드 
+
+
+쇼핑몰 분석
+
+http://monet.pamm.co.kr/index.asp
+
+타겟:여성의류 문제점:모델 사진의 해상도나 퀼리티가 떨어짐 
+
+제목폰트와 본문 폰트가 작고 색이 레이아웃 색이 떨어짐 
+
+사진퀼리티가 떨어져서 구매욕구가 떨어지게만듬 
+
+메뉴중에 상품자체가 없는 페이지가 있음...
+
